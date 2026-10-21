@@ -1,0 +1,8 @@
+extra cost is need for this buffer due to extra skid register
+oready and o_ready(given in pdf) to diiferent entities 
+coundnt make self check test bench but the test bench include all the cases
+sorry but u guys need to put put some effort to understand the working
+t
+
+
+very difficult assignment compared to others as understanding and implementing took a long time esspecially q3 at the end i gave up n just checked overview working by seeign ther waveforms and didnt put much effort in the testbench(only tried to cover all cases)
