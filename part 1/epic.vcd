@@ -1,0 +1,137 @@
+$date
+	Wed Oct 21 19:18:45 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_pcounter $end
+$var wire 2 ! state [1:0] $end
+$var wire 4 " count [3:0] $end
+$var reg 1 # clk $end
+$var reg 1 $ rst $end
+$var reg 1 % start $end
+$var reg 1 & stop $end
+$scope module uut $end
+$var wire 1 # clk $end
+$var wire 1 $ rst $end
+$var wire 1 % start $end
+$var wire 1 & stop $end
+$var reg 4 ' count [3:0] $end
+$var reg 2 ( nstate [1:0] $end
+$var reg 2 ) state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 )
+b0 (
+bx '
+0&
+0%
+1$
+0#
+bx "
+b0 !
+$end
+#5000
+b0 "
+b0 '
+1#
+#10000
+0#
+#12000
+0$
+#15000
+1#
+#20000
+0#
+#25000
+1#
+#27000
+b1 (
+1%
+#30000
+0#
+#35000
+b1 !
+b1 )
+b10 "
+b10 '
+1#
+#40000
+0#
+#45000
+b11 "
+b11 '
+1#
+#50000
+0#
+#55000
+b101 "
+b101 '
+1#
+#60000
+0#
+#65000
+b111 "
+b111 '
+1#
+#70000
+0#
+#75000
+b1011 "
+b1011 '
+1#
+#80000
+0#
+#85000
+b1101 "
+b1101 '
+1#
+#90000
+0#
+#95000
+b10 "
+b10 '
+1#
+#99000
+b11 (
+1&
+#100000
+0#
+#105000
+b0 (
+b11 !
+b11 )
+1#
+#110000
+0#
+#111000
+0&
+#115000
+b1 (
+b0 !
+b0 )
+1#
+#120000
+0#
+#125000
+b1 !
+b1 )
+1#
+#130000
+0#
+#135000
+b11 "
+b11 '
+1#
+#140000
+0#
+#145000
+b101 "
+b101 '
+1#
