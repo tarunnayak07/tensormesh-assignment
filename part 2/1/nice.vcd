@@ -1,0 +1,258 @@
+$date
+	Wed Oct 21 19:35:46 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module sra_tb $end
+$var wire 1 ! out_valid $end
+$var wire 1 " grantB $end
+$var wire 1 # grantA $end
+$var wire 8 $ data [7:0] $end
+$var reg 1 % clk $end
+$var reg 8 & dataA [7:0] $end
+$var reg 8 ' dataB [7:0] $end
+$var reg 1 ( reqA $end
+$var reg 1 ) reqB $end
+$var reg 1 * reset $end
+$scope module uut $end
+$var wire 1 % clk $end
+$var wire 8 + dataA [7:0] $end
+$var wire 8 , dataB [7:0] $end
+$var wire 1 ( reqA $end
+$var wire 1 ) reqB $end
+$var wire 1 * reset $end
+$var reg 8 - data [7:0] $end
+$var reg 1 # grantA $end
+$var reg 1 " grantB $end
+$var reg 2 . nstate [1:0] $end
+$var reg 1 ! out_valid $end
+$var reg 2 / state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx /
+bx .
+bx -
+b1011 ,
+b1010 +
+x*
+x)
+x(
+b1011 '
+b1010 &
+0%
+bx $
+x#
+x"
+x!
+$end
+#1
+1*
+#5
+b0 $
+b0 -
+b11 /
+0"
+0#
+0!
+1%
+#7
+b0 .
+0)
+1(
+0*
+#10
+0%
+#15
+1#
+b1010 $
+b1010 -
+b0 /
+1%
+#20
+0%
+#23
+b1 .
+1)
+0(
+#25
+0#
+1"
+b1011 $
+b1011 -
+b1 /
+1!
+1%
+#30
+0%
+#35
+1%
+#40
+0%
+#45
+1%
+#49
+b0 .
+1(
+#50
+0%
+#55
+0"
+1#
+b1010 $
+b1010 -
+b0 /
+1%
+#60
+0%
+#65
+1%
+#70
+0%
+#75
+1%
+#80
+0%
+#85
+1%
+#90
+0%
+#95
+1%
+#100
+0%
+#105
+1%
+#110
+0%
+#115
+1%
+#120
+0%
+#125
+1%
+#130
+0%
+#135
+1%
+#140
+0%
+#145
+1%
+#150
+0%
+#155
+1%
+#160
+0%
+#165
+1%
+#170
+0%
+#175
+b11 .
+0)
+0(
+1%
+#180
+0%
+#185
+0#
+b0 $
+b0 -
+b11 /
+1%
+#190
+0%
+#195
+0!
+1%
+#200
+0%
+#205
+1%
+#210
+0%
+#215
+1%
+#220
+0%
+#225
+1%
+#230
+0%
+#235
+1%
+#240
+0%
+#245
+1%
+#250
+0%
+#255
+1%
+#260
+0%
+#265
+1%
+#270
+0%
+#275
+1%
+#280
+0%
+#285
+1%
+#290
+0%
+#295
+1%
+#300
+0%
+#305
+1%
+#310
+0%
+#315
+1%
+#320
+0%
+#325
+1%
+#330
+0%
+#335
+1%
+#340
+0%
+#345
+1%
+#350
+0%
+#355
+1%
+#360
+0%
+#365
+1%
+#370
+0%
+#375
+1%
+#380
+0%
+#385
+1%
+#390
+0%
+#395
+1%
+#400
+0%
+#401
